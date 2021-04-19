@@ -1,0 +1,107 @@
+main 
+{
+    position: absolute;
+    width: 600px;
+    height: 400px; 
+    top: calc(50% - 200px);
+    left: calc(50% - 300px);
+    background-image: url("masparecido.jpg");
+    border: 2 px #778899;
+    border-style: solid;
+    border-radius: 10px;
+    }
+#top {
+position: absolute;
+height: 90px;
+width: 600px;
+background-color: black; 
+}
+#banco {
+position: absolute;
+height: 100px;
+width: 165px;
+top:11px;
+left: 40px;
+}
+#chip 
+{
+position: absolute;
+
+height: 75px;
+width: 85px;
+top: 150px;
+left: 40px;
+}
+#number{
+position: absolute;
+display: flex;
+top: 200px;
+left:40px;
+width: 500px;
+}
+.num {
+width:500px;
+font-size: 25pt;
+font-family: "Orbitron"; 
+color:rgba(245, 244, 239, 0.562);
+}
+#cositoblanco {
+position: absolute;
+height: 70px;
+width: 125px;
+background-color: white;
+right: 25px;
+bottom: 50px;
+}
+#visa {
+position: absolute;
+z-index: +1;
+right: -5px;
+bottom: -20PX;
+width: 135px;
+height: 105px;
+}
+
+#datos1 {
+position: absolute;
+left: 40px;
+top: 300px;
+display: flex;
+
+}
+#datos2 {
+    position: absolute;
+    left:300px;
+    top: 300px;
+    display: flex;
+  
+    }
+.dato {
+    font-size: 8pt;
+    font-family: "Orbitron";
+    color: rgba(245, 244, 239, 0.562);
+}
+.valor {
+    font-size: 12pt;
+    font-family: "Orbitron";
+    font-weight: bold;
+    color:rgba(245, 244, 239, 0.562);
+    margin-left: 5px;
+}
+#Nombre {
+    position: absolute;
+    font-size: 15pt;
+    bottom: 10px;
+    left: 40px;
+    color:ivory;
+    font-family: "Orbitron";
+}
+#sig {
+    position: absolute;
+    right: 25px;
+    bottom: 9px;
+    font-size: 15pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+    color:cornsilk;
+}

@@ -1,0 +1,18 @@
+Hola!
+Aquí anoto las dudas que surgieron durante el proceso.
+
+En la <div> "datos" quise usar <section> para que fueran una sola
+línea y sobre esa usar "display:flex". 
+No funcionó. Se alineaba por fuera de la tarejeta como si
+estuviese como "position:relative". 
+Otro aspecto en relación a esas <div> es que las resolví a los 
+".datos" en una sola palabra cuando la intención era que fueran
+dos, como en la original. La cuestión es que no pude resolver 
+la alineación de esos textos. Se me ocurrió "forzarla" con "width",
+pero capaz ya era muy cochino y no a lo que apuntaba la consigna.
+Pero bueno, la cuestión es que el resultado es ese. 
+Otra cuestión es que hice "href" para que se vea la referencia 
+en el logo. Pero mi idea era que fuera en la tarjeta entera. 
+Lo quise hacer sobre <main> pero no resultó. Soy un choto.
+
+Un besote. Gracias por tanto.  
